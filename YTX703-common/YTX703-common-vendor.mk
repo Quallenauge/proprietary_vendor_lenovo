@@ -18,7 +18,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/YTX703-common/proprietary/vendor/bin/adsprpcd:$(TARGET_COPY_OUT_VENDOR)/bin/adsprpcd \
     vendor/lenovo/YTX703-common/proprietary/vendor/bin/btnvtool:$(TARGET_COPY_OUT_VENDOR)/bin/btnvtool \
     vendor/lenovo/YTX703-common/proprietary/vendor/bin/cnd:$(TARGET_COPY_OUT_VENDOR)/bin/cnd \
-    vendor/lenovo/YTX703-common/proprietary/vendor/bin/cnss-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/cnss-daemon \
     vendor/lenovo/YTX703-common/proprietary/vendor/bin/dpmd:$(TARGET_COPY_OUT_VENDOR)/bin/dpmd \
     vendor/lenovo/YTX703-common/proprietary/vendor/bin/hci_qcomm_init:$(TARGET_COPY_OUT_VENDOR)/bin/hci_qcomm_init \
     vendor/lenovo/YTX703-common/proprietary/vendor/bin/hvdcp_opti:$(TARGET_COPY_OUT_VENDOR)/bin/hvdcp_opti \
